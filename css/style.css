@@ -1372,3 +1372,18 @@ pre .javascript .function {
   margin-right: 5px;
   display: inline-block;
 }
+::-webkit-scrollbar-thumb {
+  background-color: #fa2104;
+  background-image: -webkit-linear-gradient(45deg, rgb(7, 235, 252) 25%, transparent 25%, transparent 50%, rgb(7, 235, 252) 50%, rgb(7, 235, 252) 75%, transparent 75%, transparent);
+}
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
+  background: #f6f6f6;
+}
+::-webkit-scrollbar {
+  width: 11px;
+  height: 1px;
+}
+html{
+  cursor: url(css/images/刻晴鼠标指针T2.png),default;
+}
