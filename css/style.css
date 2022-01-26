@@ -1093,7 +1093,7 @@ a.article-title:hover {
 }
 .article-entry pre,
 .article-entry .highlight {
-  background: #03f3e786;
+  background: #f3830386;
   margin: 0 -20px;
   padding: 15px 20px;
   border-style: solid;
@@ -1160,7 +1160,7 @@ a.article-title:hover {
   height: 22.400000000000002px;
 }
 .article-entry .highlight .line.marked {
-  background: #02d6f17a;
+  background: #f3830386;
 }
 .article-entry .gist {
   margin: 0 -20px;
@@ -1245,7 +1245,7 @@ pre .inheritance,
 pre .header,
 pre .ruby .symbol,
 pre .xml .cdata {
-  color: rgba(252, 186, 5, 0.534);
+  color: rgb(116, 252, 5);
 }
 pre .css .hexcolor {
   color: #6cc;
